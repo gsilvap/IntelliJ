@@ -1,0 +1,21 @@
+<application>
+  <component name="EditorSettings">
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern useCustomColors="true" pattern="\b(todo|fixme)\b.GSP.*">
+      <option name="FOREGROUND" value="c01019" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_COLOR" value="3c3f41" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      <option name="EFFECT_TYPE" value="5" />
+    </pattern>
+    <filter name="GSP">
+      <pattern index="1" />
+    </filter>
+  </component>
+</application>

@@ -1,0 +1,22 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ninasteel.database.windows.net ACC" uuid="20438c24-d96e-4c8d-b188-cdb90df94ab3">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://ninasteel.database.windows.net;database=ninasteel_ACC</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="ninasteel.database.windows.net DEV" uuid="d67bdcdb-6bfa-409e-bd88-a71f16582a37">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://ninasteel.database.windows.net;database=dev_branch_ref_1659 ;database=ninasteel_DEV</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="ninasteel.database.windows.net PROD" uuid="270a19e7-a7fa-458a-81aa-acc0d8e44098">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://ninasteel.database.windows.net;database=ninasteel_PRD</jdbc-url>
+    </data-source>
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Sublime Text 3" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\Sublime Text 3\subl.exe" />
+      <option name="PARAMETERS" value="$FilePath$:$LineNumber$" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files/Sublime Text 3" />
+    </exec>
+  </tool>
+</toolSet>
