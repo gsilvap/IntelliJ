@@ -12,7 +12,7 @@
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
       <jdbc-url>jdbc:sqlserver://ninasteel.database.windows.net;database=dev_branch_ref_1659 ;database=ninasteel_DEV</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="ninasteel.database.windows.net PROD" uuid="270a19e7-a7fa-458a-81aa-acc0d8e44098">
+    <data-source source="LOCAL" name="ninasteel.database.windows.net PROD" read-only="true" uuid="270a19e7-a7fa-458a-81aa-acc0d8e44098">
       <driver-ref>sqlserver.ms</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
