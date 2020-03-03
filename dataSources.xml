@@ -1,6 +1,6 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="ninasteel.database.windows.net ACC" read-only="true" uuid="20438c24-d96e-4c8d-b188-cdb90df94ab3">
+    <data-source source="LOCAL" name="ninasteel.database.windows.net ACC" uuid="20438c24-d96e-4c8d-b188-cdb90df94ab3">
       <driver-ref>sqlserver.ms</driver-ref>
       <synchronize>true</synchronize>
       <auto-commit>false</auto-commit>
