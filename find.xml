@@ -5,16 +5,16 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.xfl</mask>
     <mask>*.xlf</mask>
-    <mask>*.html</mask>
     <mask>*.css</mask>
     <mask>*.py</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
