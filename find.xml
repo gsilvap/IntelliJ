@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
@@ -12,8 +13,8 @@
     <mask>*.xlf</mask>
     <mask>*.css</mask>
     <mask>*.py</mask>
-    <mask>*.html</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
