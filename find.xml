@@ -13,7 +13,7 @@
     <mask>*.css</mask>
     <mask>*.py</mask>
     <mask>*.java</mask>
-    <mask>*.ts</mask>
     <mask>*.html</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
