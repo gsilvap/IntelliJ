@@ -9,6 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="REF-2136 Map the cm booster conditions in the backend" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
@@ -17,7 +18,7 @@
     <mask>*.py</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
-    <mask>*.java</mask>
     <mask>*.ts</mask>
+    <mask>*.java</mask>
   </component>
 </application>
