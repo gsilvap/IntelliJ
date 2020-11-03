@@ -38,6 +38,14 @@
           <option name="url" value="http://genappgit51.unix.appliarmony.net/refactoring_v1/v2_steering_console.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://dsteamarcelormittal@dev.azure.com/dsteamarcelormittal/Ninasteel/_git/NinasteelPricingConsole" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/dsteamarcelormittal/Ninasteel/NinasteelPricingConsole" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\GIT" />
