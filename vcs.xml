@@ -46,6 +46,14 @@
           <option name="url" value="git@ssh.dev.azure.com:v3/dsteamarcelormittal/Ninasteel/NinasteelPricingConsole" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@genappgit51.unix.appliarmony.net:refactoring_v1/delta_pstar_ref.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://genappgit51.unix.appliarmony.net/refactoring_v1/delta_pstar_ref.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\GIT" />
