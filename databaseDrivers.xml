@@ -127,46 +127,46 @@
       <library>
         <url>file://C:/drivers/sqljdbc_8.4/mssql-jdbc-8.4.1.jre8.jar</url>
       </library>
-      <library native="true">
+      <library>
         <url>file://C:/drivers/sqljdbc_8.4/lib/accessors-smart-1.2.jar</url>
       </library>
-      <library native="true">
+      <library>
         <url>file://C:/drivers/sqljdbc_8.4/lib/activation-1.1.jar</url>
       </library>
-      <library native="true">
+      <library>
         <url>file://C:/drivers/sqljdbc_8.4/lib/adal4j-1.6.5.jar</url>
       </library>
-      <library native="true">
+      <library>
         <url>file://C:/drivers/sqljdbc_8.4/lib/asm-5.0.4.jar</url>
       </library>
-      <library native="true">
+      <library>
         <url>file://C:/drivers/sqljdbc_8.4/lib/commons-codec-1.14.jar</url>
       </library>
-      <library native="true">
+      <library>
         <url>file://C:/drivers/sqljdbc_8.4/lib/commons-lang3-3.5.jar</url>
       </library>
-      <library native="true">
+      <library>
         <url>file://C:/drivers/sqljdbc_8.4/lib/gson-2.8.0.jar</url>
       </library>
-      <library native="true">
+      <library>
         <url>file://C:/drivers/sqljdbc_8.4/lib/javax.mail-1.6.1.jar</url>
       </library>
-      <library native="true">
+      <library>
         <url>file://C:/drivers/sqljdbc_8.4/lib/jcip-annotations-1.0-1.jar</url>
       </library>
-      <library native="true">
+      <library>
         <url>file://C:/drivers/sqljdbc_8.4/lib/json-smart-2.3.jar</url>
       </library>
-      <library native="true">
+      <library>
         <url>file://C:/drivers/sqljdbc_8.4/lib/lang-tag-1.5.jar</url>
       </library>
-      <library native="true">
+      <library>
         <url>file://C:/drivers/sqljdbc_8.4/lib/nimbus-jose-jwt-9.1.2.jar</url>
       </library>
-      <library native="true">
+      <library>
         <url>file://C:/drivers/sqljdbc_8.4/lib/oauth2-oidc-sdk-6.5.jar</url>
       </library>
-      <library native="true">
+      <library>
         <url>file://C:/drivers/sqljdbc_8.4/lib/slf4j-api-1.7.21.jar</url>
       </library>
     </driver>
