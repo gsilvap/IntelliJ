@@ -1,81 +1,54 @@
 <application>
-  <component name="LocalDatabaseDriverManager" version="163">
-    <driver id="azure.ms">
-      <artifact name="SQL Server" use="true" version="7.4.1" />
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="cassandra">
       <option name="auto-sync" value="true" />
-      <option name="send-app-info" value="false" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
+    </driver>
+    <driver id="clickhouse">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="db2.11">
+      <option name="auto-sync" value="false" />
     </driver>
     <driver id="db2">
-      <artifact name="DB2" use="true" />
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="db2.jtopen">
-      <artifact name="JTOpen (DB2 iSeries)" use="true" />
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="derby.embedded">
-      <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="derby.remote">
-      <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="h2.unified">
-      <artifact name="H2" use="true" />
+    <driver id="exasol">
       <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="hsqldb.local">
-      <artifact name="HSQLDB" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="hsqldb.remote">
-      <artifact name="HSQLDB" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="mariadb">
-      <artifact name="MariaDB Connector J" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="mysql.8">
-      <artifact name="MySQL Connector/J 8" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="mysql">
-      <artifact name="MySQL Connector/J" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="oracle">
-      <artifact name="Oracle" use="true" />
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="false" />
-    </driver>
-    <driver id="postgresql">
-      <artifact name="PostgreSQL" use="true" />
-      <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
-    </driver>
-    <driver id="redshift">
-      <artifact name="Redshift" use="true" />
-      <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
     </driver>
     <driver id="greenplum">
-      <artifact name="PostgreSQL" use="true" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
       <option name="send-app-info" value="false" />
     </driver>
-    <driver id="sqlite.xerial">
-      <artifact name="Xerial SQLiteJDBC" use="true" />
+    <driver id="h2.unified">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="hive">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="hsqldb.local">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="hsqldb.remote">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="mariadb">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="mongo">
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="sqlserver.ms">
-      <artifact name="SQL Server" use="true" version="7.4.1" />
+      <artifact id="SQL Server" name="SQL Server" use="true" version="7.4.1" />
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
       <option name="auto-commit" value="true" />
@@ -84,43 +57,118 @@
       <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="sqlserver.jtds">
-      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="azure.ms">
+      <artifact id="SQL Server" name="SQL Server" use="true" version="7.4.1" />
+      <option name="auto-sync" value="true" />
+      <option name="send-app-info" value="false" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
+    </driver>
+    <driver id="mysql.8">
+      <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="mysql">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="mysql_aurora">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="oracle">
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="false" />
+    </driver>
+    <driver id="postgresql">
+      <option name="auto-sync" value="true" />
+      <option name="schema-control" value="MANUAL" />
+    </driver>
+    <driver id="redshift">
+      <option name="auto-sync" value="true" />
+      <option name="schema-control" value="MANUAL" />
+    </driver>
+    <driver id="snowflake">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sqlite.xerial">
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="sybase.jtds">
-      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="sybase.ase">
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="exasol">
-      <artifact name="Exasol" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="clickhouse">
-      <artifact name="ClickHouse" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="cassandra">
-      <artifact name="Cassandra" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
     <driver id="vertica">
-      <artifact name="Vertica" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="hive">
-      <artifact name="Hive" use="true" />
+    <driver id="bc613ef4-d15c-431b-957d-745aeef4f9a6" name="Azure SQL Database 8.4.1" dialect="TSQL" driver-class="com.microsoft.sqlserver.jdbc.SQLServerDriver" icon="AllIcons.Providers.Azure">
+      <url-template name="default" template="jdbc:sqlserver://{host:host_ipv6:server.database.windows.net}[:{port::1433}][;&lt;;,user[Name]={user:param},password={password:param},database[Name]={database},{:identifier}={:param}&gt;];?" />
+      <url-template name="default" template="jdbc:sqlserver://;&lt;;,user[Name]={user},password={password},database[Name]={database},server[Name]={host:host_ipv6:server.database.windows.net},port[Number]={port::1433},{:identifier}={:param}&gt;;?" />
+      <connection-bounds default-value="master">
+        <rewrite-parameter name="databaseName" />
+        <rewrite-parameter name="database" in-url="true" />
+      </connection-bounds>
       <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="snowflake">
-      <artifact name="Snowflake" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="mongo">
-      <artifact name="MongoDB" use="true" />
-      <option name="auto-sync" value="true" />
+      <option name="send-app-info" value="false" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <property name="loginTimeout" value="30" />
+      <property name="trustServerCertificate" value="false" />
+      <property name="encrypt" value="true" />
+      <property name="hostNameInCertificate" value="*.database.windows.net" />
+      <property name="applicationName" value="DataGrip" />
+      <property name="authentication" value="ActiveDirectoryPassword" />
+      <library>
+        <url>file://C:/drivers/sqljdbc_8.4/mssql-jdbc-8.4.1.jre8.jar</url>
+      </library>
+      <library native="true">
+        <url>file://C:/drivers/sqljdbc_8.4/lib/accessors-smart-1.2.jar</url>
+      </library>
+      <library native="true">
+        <url>file://C:/drivers/sqljdbc_8.4/lib/activation-1.1.jar</url>
+      </library>
+      <library native="true">
+        <url>file://C:/drivers/sqljdbc_8.4/lib/adal4j-1.6.5.jar</url>
+      </library>
+      <library native="true">
+        <url>file://C:/drivers/sqljdbc_8.4/lib/asm-5.0.4.jar</url>
+      </library>
+      <library native="true">
+        <url>file://C:/drivers/sqljdbc_8.4/lib/commons-codec-1.14.jar</url>
+      </library>
+      <library native="true">
+        <url>file://C:/drivers/sqljdbc_8.4/lib/commons-lang3-3.5.jar</url>
+      </library>
+      <library native="true">
+        <url>file://C:/drivers/sqljdbc_8.4/lib/gson-2.8.0.jar</url>
+      </library>
+      <library native="true">
+        <url>file://C:/drivers/sqljdbc_8.4/lib/javax.mail-1.6.1.jar</url>
+      </library>
+      <library native="true">
+        <url>file://C:/drivers/sqljdbc_8.4/lib/jcip-annotations-1.0-1.jar</url>
+      </library>
+      <library native="true">
+        <url>file://C:/drivers/sqljdbc_8.4/lib/json-smart-2.3.jar</url>
+      </library>
+      <library native="true">
+        <url>file://C:/drivers/sqljdbc_8.4/lib/lang-tag-1.5.jar</url>
+      </library>
+      <library native="true">
+        <url>file://C:/drivers/sqljdbc_8.4/lib/nimbus-jose-jwt-9.1.2.jar</url>
+      </library>
+      <library native="true">
+        <url>file://C:/drivers/sqljdbc_8.4/lib/oauth2-oidc-sdk-6.5.jar</url>
+      </library>
+      <library native="true">
+        <url>file://C:/drivers/sqljdbc_8.4/lib/slf4j-api-1.7.21.jar</url>
+      </library>
     </driver>
   </component>
 </application>

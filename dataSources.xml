@@ -22,5 +22,12 @@
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
       <jdbc-url>jdbc:sqlserver://ninasteel.database.windows.net;database=ninasteel_PRD</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="ninasteel.database.windows.net DEV AD" uuid="6d4d7439-47a3-444c-8142-d5e47a5fcf18">
+      <driver-ref>bc613ef4-d15c-431b-957d-745aeef4f9a6</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://ninasteel.database.windows.net;database=dev_branch_ref_1659 ;database=ninasteel_DEV</jdbc-url>
+    </data-source>
   </component>
 </application>
