@@ -1,18 +1,17 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="customScope" value="All Changed Files" />
+    <option name="defaultScopeName" value="All Changed Files" />
+    <option name="SEARCH_SCOPE" value="All Changed Files" />
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.xfl</mask>
     <mask>*.xlf</mask>
     <mask>*.py</mask>
-    <mask>*.html</mask>
     <mask>*.java</mask>
     <mask>*.css</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
