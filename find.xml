@@ -3,15 +3,16 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.xfl</mask>
     <mask>*.xlf</mask>
     <mask>*.py</mask>
-    <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
+    <mask>*.css</mask>
   </component>
 </application>
