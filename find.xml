@@ -3,7 +3,7 @@
     <option name="customScope" value="All Changed Files" />
     <option name="defaultScopeName" value="All Changed Files" />
     <option name="SEARCH_SCOPE" value="All Changed Files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
@@ -11,8 +11,8 @@
     <mask>*.xlf</mask>
     <mask>*.py</mask>
     <mask>*.css</mask>
-    <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
