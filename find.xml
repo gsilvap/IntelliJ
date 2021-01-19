@@ -9,9 +9,9 @@
     <mask>*.xfl</mask>
     <mask>*.xlf</mask>
     <mask>*.py</mask>
-    <mask>*.css</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
+    <mask>*.css</mask>
   </component>
 </application>
