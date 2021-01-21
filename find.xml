@@ -3,6 +3,7 @@
     <option name="customScope" value="REF-2400 UI: Price Instruction for new CSUs &amp; reactivated PP" />
     <option name="defaultScopeName" value="REF-2400 UI: Price Instruction for new CSUs &amp; reactivated PP" />
     <option name="SEARCH_SCOPE" value="REF-2400 UI: Price Instruction for new CSUs &amp; reactivated PP" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
@@ -11,7 +12,7 @@
     <mask>*.py</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
-    <mask>*.ts</mask>
     <mask>*.java</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
