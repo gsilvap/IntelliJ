@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="REF-2400 UI: Price Instruction for new CSUs &amp; reactivated PP" />
-    <option name="defaultScopeName" value="REF-2400 UI: Price Instruction for new CSUs &amp; reactivated PP" />
-    <option name="SEARCH_SCOPE" value="REF-2400 UI: Price Instruction for new CSUs &amp; reactivated PP" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
