@@ -3,7 +3,9 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="richSelectCellEditorRequest.component.ts" type="PLAIN_TEXT" />
       <mapping pattern="aggrid" type="PLAIN_TEXT" />
+      <mapping pattern="richSelectCellEditorRequest" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
