@@ -7,6 +7,7 @@
       <mapping pattern="aggrid" type="PLAIN_TEXT" />
       <mapping pattern="richSelectCellEditorRequest" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping pattern="customRichSelectCellEditor" type="TypeScript" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
