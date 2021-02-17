@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '...\src\main\java\com\arcelormittal\ninasteel\nina_ui\repository\model\PriceRulesRepository.java'" />
+    <option name="defaultScopeName" value="File '...\src\main\java\com\arcelormittal\ninasteel\nina_ui\repository\model\PriceRulesRepository.java'" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '...\src\main\java\com\arcelormittal\ninasteel\nina_ui\repository\model\PriceRulesRepository.java'" />
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
