@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="clipboardPatchFile" />
-    <option name="defaultScopeName" value="clipboardPatchFile" />
-    <option name="SEARCH_SCOPE" value="clipboardPatchFile" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
