@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="REF-2639  Add accesses of Price Champions by CSU in UI  Change API to retrieve the rules taking in consideration the restrictions by csu" />
-    <option name="defaultScopeName" value="REF-2639  Add accesses of Price Champions by CSU in UI  Change API to retrieve the rules taking in consideration the restrictions by csu" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="REF-2639  Add accesses of Price Champions by CSU in UI  Change API to retrieve the rules taking in consideration the restrictions by csu" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
