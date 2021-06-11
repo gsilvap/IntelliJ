@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="REF-2639  Add accesses of Price Champions by CSU in UI  Change API to retrieve the rules taking in consideration the restrictions by csu" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
@@ -12,8 +13,8 @@
     <mask>*.xlf</mask>
     <mask>*.py</mask>
     <mask>*.css</mask>
-    <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
+    <mask>*.java</mask>
   </component>
 </application>
