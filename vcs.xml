@@ -58,6 +58,14 @@
           <option name="url" value="https://dsteamarcelormittal@dev.azure.com/dsteamarcelormittal/Ninasteel/_git/NinasteelAzureDataFactory" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://dsteamarcelormittal@dev.azure.com/dsteamarcelormittal/Ninasteel/_git/NinasteelRuleModel" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/dsteamarcelormittal/Ninasteel/NinasteelRuleModel" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\GIT" />
