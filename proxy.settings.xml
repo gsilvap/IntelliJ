@@ -3,7 +3,6 @@
     <option name="USE_PROXY_PAC" value="true" />
     <option name="PROXY_HOST" value="165.225.76.41" />
     <option name="PROXY_PORT" value="10299" />
-    <option name="PROXY_AUTHENTICATION" value="true" />
     <option name="KEEP_PROXY_PASSWORD" value="true" />
     <option name="USE_PAC_URL" value="true" />
     <option name="PAC_URL" value="http://pacfile.arcelormittal.net/cloudproxy.arcelormittal.net/zscaler.pac" />
