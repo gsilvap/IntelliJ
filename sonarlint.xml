@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://ninasteel-prd-sonarqube.azurewebsites.net" />
+          <token>df9ddf9cdfc9df9edfcedf99df9adf93df9ddf98df9edf9fdfcbdfcfdf98df9fdf9fdfc9df9ddf9fdfc8df9cdf9bdfc8dfccdfc9df99df9ddf9edf9fdf9cdfccdfcbdfc9dfc9dfc9dfc8dfcfdfcedf98</token>
+          <option name="name" value="Sonar" />
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
