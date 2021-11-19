@@ -7,6 +7,7 @@
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="bck2" type="PLAIN_TEXT" />
       <mapping pattern="customRichSelectCellEditor" type="TypeScript" />
+      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
