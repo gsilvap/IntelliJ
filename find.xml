@@ -1,18 +1,18 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '…\src\main\java\com\arcelormittal\ninasteel\nina_ui\PivotProducts.java'" />
+    <option name="defaultScopeName" value="File '…\src\main\java\com\arcelormittal\ninasteel\nina_ui\PivotProducts.java'" />
+    <option name="SEARCH_SCOPE" value="File '…\src\main\java\com\arcelormittal\ninasteel\nina_ui\PivotProducts.java'" />
     <mask>*.xfl</mask>
     <mask>*.xlf</mask>
     <mask>*.py</mask>
     <mask>*.ts</mask>
+    <mask>*.yml</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.yml</mask>
   </component>
 </application>
