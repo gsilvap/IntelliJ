@@ -3,6 +3,7 @@
     <option name="customScope" value="REF-2864  Develop API to expose lifecycle of a rule in the backend" />
     <option name="defaultScopeName" value="REF-2864  Develop API to expose lifecycle of a rule in the backend" />
     <option name="SEARCH_SCOPE" value="REF-2864  Develop API to expose lifecycle of a rule in the backend" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.xfl</mask>
     <mask>*.xlf</mask>
     <mask>*.py</mask>
