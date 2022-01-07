@@ -6,7 +6,7 @@
         <entry key="account.azure_environment" value="Azure" />
         <entry key="account.subscriptions_json" value="" />
         <entry key="telemetry.telemetry_allow_telemetry" value="true" />
-        <entry key="telemetry.telemetry_plugin_version" value="3.59.0-2021.2" />
+        <entry key="telemetry.telemetry_plugin_version" value="3.60.1-2021.2" />
       </map>
     </option>
   </component>
