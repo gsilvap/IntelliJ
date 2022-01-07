@@ -2,6 +2,5 @@
   <template name="$e" value="$scope.$emit('$eventName$', $eventArgs$);&#10;$END$" description="Define an $emit for a $scope inside an Angular Controller / Angular Controller Function. You can change the event name and optional event arguments." toReformat="true" toShortenFQNames="true">
     <variable name="eventName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="eventArgs" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
