@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="sql match" type="AUTO_DETECTED" />
       <mapping pattern="aggrid" type="PLAIN_TEXT" />
       <mapping pattern="richSelectCellEditorRequest" type="PLAIN_TEXT" />
       <mapping pattern="richSelectCellEditorRequest.component.ts" type="PLAIN_TEXT" />
