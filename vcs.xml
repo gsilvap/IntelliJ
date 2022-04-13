@@ -28,7 +28,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://dev.azure.com" />
-          <option name="userName" value="goncalo.pereira@contractors.arcelormittal.com" />
+          <option name="userName" value="dsteamarcelormittal" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/va4ok/jira2git-tools.git" />
@@ -52,6 +52,26 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://genappgit51.unix.appliarmony.net/refactoring_v1/delta_pstar_ref.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://dsteamarcelormittal@dev.azure.com/dsteamarcelormittal/Ninasteel/_git/NinasteelAzureDataFactory" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://dsteamarcelormittal@dev.azure.com/dsteamarcelormittal/Ninasteel/_git/NinasteelRuleModel" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/dsteamarcelormittal/Ninasteel/NinasteelRuleModel" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://dsteamarcelormittal@dev.azure.com/dsteamarcelormittal/Ninasteel/_git/NinasteelAbsolutePStar" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/dsteamarcelormittal/Ninasteel/NinasteelAzureDataFactory" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>

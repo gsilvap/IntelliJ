@@ -1,5 +1,15 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.npm.arcelormittal.net/" />
+          <token>df9adfc9df93df99df9fdfc8df98df92df98df9bdf9adf9bdfcbdf99dfcedf9ddfcbdf9ddfcedf9adfc8df99dfcbdfcbdf9edfcbdfccdf9cdfc9df92df99dfccdfc8dfcfdf9fdfcfdf98dfcedf92dfc9</token>
+          <option name="name" value="Sonar" />
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules />
   </component>
 </application>
