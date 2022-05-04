@@ -1,0 +1,19 @@
+<application>
+  <component name="Jira.Issues.App.Settings">
+    <option name="HIGHLIGHTERS">
+      <map>
+        <entry key="RESOLVED_ISSUES" value="true" />
+      </map>
+    </option>
+    <option name="COLUMN_ID_VISIBILITY">
+      <map>
+        <entry key="Table.Dynamic.IssueCreated.ColumnIdVisibility" value="true" />
+      </map>
+    </option>
+    <option name="CUSTOM_BOOLEAN_PROPERTIES">
+      <map>
+        <entry key="Searchers.show" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
