@@ -12,8 +12,8 @@
     <mask>*.properties</mask>
     <mask>*.yml</mask>
     <mask>*.sass</mask>
-    <mask>*.html</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
