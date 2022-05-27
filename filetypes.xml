@@ -5,9 +5,9 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="richSelectCellEditorRequest.component.ts" type="PLAIN_TEXT" />
       <mapping pattern="aggrid" type="PLAIN_TEXT" />
       <mapping pattern="richSelectCellEditorRequest" type="PLAIN_TEXT" />
-      <mapping pattern="richSelectCellEditorRequest.component.ts" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="bck2" type="PLAIN_TEXT" />
       <mapping pattern="customRichSelectCellEditor" type="TypeScript" />
