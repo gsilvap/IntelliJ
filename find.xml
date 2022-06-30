@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.xfl</mask>
     <mask>*.xlf</mask>
     <mask>*.py</mask>
@@ -12,8 +13,8 @@
     <mask>*.sass</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
-    <mask>*.ts</mask>
     <mask>*.java</mask>
     <mask>*.html</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
