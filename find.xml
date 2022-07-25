@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\src\main\java\com\arcelormittal\ninasteel\nina_ui\service\PriceRulesServiceV2.java'" />
-    <option name="defaultScopeName" value="File '…\src\main\java\com\arcelormittal\ninasteel\nina_ui\service\PriceRulesServiceV2.java'" />
-    <option name="SEARCH_SCOPE" value="File '…\src\main\java\com\arcelormittal\ninasteel\nina_ui\service\PriceRulesServiceV2.java'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xfl</mask>
     <mask>*.xlf</mask>
     <mask>*.py</mask>
