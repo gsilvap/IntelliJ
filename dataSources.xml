@@ -1,20 +1,5 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="ninasteel.database.windows.net ACC" uuid="20438c24-d96e-4c8d-b188-cdb90df94ab3">
-      <driver-ref>sqlserver.ms</driver-ref>
-      <synchronize>true</synchronize>
-      <auto-commit>false</auto-commit>
-      <isolation>2</isolation>
-      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
-      <jdbc-url>jdbc:sqlserver://ninasteel.database.windows.net;database=ninasteel_ACC</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="ninasteel.database.windows.net PROD" uuid="270a19e7-a7fa-458a-81aa-acc0d8e44098">
-      <driver-ref>sqlserver.ms</driver-ref>
-      <synchronize>true</synchronize>
-      <auto-commit>false</auto-commit>
-      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
-      <jdbc-url>jdbc:sqlserver://ninasteel.database.windows.net;database=ninasteel_PRD</jdbc-url>
-    </data-source>
     <data-source source="LOCAL" name="ninasteel.database.windows.net DEV AD" uuid="6d4d7439-47a3-444c-8142-d5e47a5fcf18">
       <driver-ref>bc613ef4-d15c-431b-957d-745aeef4f9a6</driver-ref>
       <synchronize>true</synchronize>
