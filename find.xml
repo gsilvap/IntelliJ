@@ -11,9 +11,9 @@
     <mask>*.yml</mask>
     <mask>*.sass</mask>
     <mask>*.xml</mask>
-    <mask>*.css</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
+    <mask>*.css</mask>
   </component>
 </application>
