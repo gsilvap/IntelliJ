@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="sql match" type="AUTO_DETECTED" />
+      <removed_mapping pattern=".springBeans" type="Eclipse" />
       <mapping pattern="aggrid" type="PLAIN_TEXT" />
       <mapping pattern="richSelectCellEditorRequest" type="PLAIN_TEXT" />
       <mapping pattern="richSelectCellEditorRequest.component.ts" type="PLAIN_TEXT" />
@@ -9,7 +10,10 @@
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping ext="bck2" type="PLAIN_TEXT" />
+      <removed_mapping pattern="spring.schemas" type="Properties" />
+      <removed_mapping pattern="spring.handlers" type="Properties" />
       <mapping pattern="customRichSelectCellEditor" type="TypeScript" />
+      <removed_mapping ext="wadl" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
