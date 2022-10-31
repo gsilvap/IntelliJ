@@ -9,8 +9,6 @@
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping ext="bck2" type="PLAIN_TEXT" />
-      <mapping pattern="spring.handlers" type="Properties" />
-      <mapping pattern="spring.schemas" type="Properties" />
       <mapping pattern="customRichSelectCellEditor" type="TypeScript" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
