@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '…\src\main\webapp\app\price-instructions\price-instruction.component.ts'" />
+    <option name="defaultScopeName" value="File '…\src\main\webapp\app\price-instructions\price-instruction.component.ts'" />
+    <option name="SEARCH_SCOPE" value="File '…\src\main\webapp\app\price-instructions\price-instruction.component.ts'" />
     <option name="FILE_MASK" value="*.ts" />
     <mask>*.xfl</mask>
     <mask>*.xlf</mask>
