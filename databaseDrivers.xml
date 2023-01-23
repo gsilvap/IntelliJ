@@ -1,123 +1,22 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
-    <driver id="cassandra">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="clickhouse">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="db2.11">
-      <option name="auto-sync" value="false" />
-    </driver>
-    <driver id="db2">
-      <option name="auto-sync" value="false" />
-    </driver>
-    <driver id="db2.jtopen">
-      <option name="auto-sync" value="false" />
-    </driver>
-    <driver id="derby.embedded">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="derby.remote">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="exasol">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="greenplum">
-      <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
-      <option name="send-app-info" value="false" />
-    </driver>
-    <driver id="h2.unified">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="hive">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="hsqldb.local">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="hsqldb.remote">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="mariadb">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="mongo">
-      <option name="auto-sync" value="true" />
-    </driver>
     <driver id="sqlserver.ms">
       <artifact id="SQL Server" name="SQL Server" use="true" version="7.4.1" />
-      <option name="auto-sync" value="true" />
-      <option name="send-app-info" value="false" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
-    </driver>
-    <driver id="sqlserver.jtds">
-      <option name="auto-sync" value="true" />
     </driver>
     <driver id="azure.ms">
       <artifact id="SQL Server" name="SQL Server" use="true" version="7.4.1" />
-      <option name="auto-sync" value="true" />
-      <option name="send-app-info" value="false" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="mysql.8">
       <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" />
-      <option name="auto-sync" value="true" />
     </driver>
-    <driver id="mysql">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="mysql_aurora">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="oracle">
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="false" />
-    </driver>
-    <driver id="postgresql">
-      <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
-    </driver>
-    <driver id="redshift">
-      <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
-    </driver>
-    <driver id="snowflake">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="sqlite.xerial">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="sybase.jtds">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="sybase.ase">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="vertica">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="bc613ef4-d15c-431b-957d-745aeef4f9a6" name="Azure SQL Database 8.4.1" dialect="TSQL" driver-class="com.microsoft.sqlserver.jdbc.SQLServerDriver" icon="AllIcons.Providers.Azure">
+    <driver id="bc613ef4-d15c-431b-957d-745aeef4f9a6" name="Azure SQL Database 8.4.1" dialect="AZURE" driver-class="com.microsoft.sqlserver.jdbc.SQLServerDriver" icon="AllIcons.Providers.Azure">
       <url-template name="default" template="jdbc:sqlserver://{host:host_ipv6:server.database.windows.net}[:{port::1433}][;&lt;;,user[Name]={user:param},password={password:param},database[Name]={database},{:identifier}={:param}&gt;];?" />
       <url-template name="default" template="jdbc:sqlserver://;&lt;;,user[Name]={user},password={password},database[Name]={database},server[Name]={host:host_ipv6:server.database.windows.net},port[Number]={port::1433},{:identifier}={:param}&gt;;?" />
       <connection-bounds default-value="master">
         <rewrite-parameter name="databaseName" />
         <rewrite-parameter name="database" in-url="true" />
       </connection-bounds>
-      <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
       <property name="loginTimeout" value="30" />
       <property name="trustServerCertificate" value="false" />
       <property name="encrypt" value="true" />
